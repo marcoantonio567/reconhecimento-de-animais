@@ -1,0 +1,10 @@
+0 cachorro 
+1 cobra 
+2 tubarão
+3 baiacu
+4 porco
+5 papagaio
+6 jacare 
+7 pinguim
+8 salamandra
+9 sapo
